@@ -79,10 +79,10 @@
             "iconUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png"
         },     
         {
-            "id": "thapcam",
-            "name": "Thập Cẩm",
-            "version": "1.0.3",
-            "scriptUrl": "https://raw.githubusercontent.com/emtalaxyo/repo/refs/heads/main/plugins/thapcam_plugin.js",
+            "id": "phim4k_vip",
+            "name": "Phim4K VIP",
+            "version": "1.0.0",
+            "scriptUrl": "https://raw.githubusercontent.com/emtalaxyo/repo/refs/heads/main/plugins/phim4k_vip.js",
             "iconUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png"
         }     
     ]
