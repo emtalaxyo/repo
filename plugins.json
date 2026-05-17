@@ -92,6 +92,31 @@
             "pluginLists": [
         "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
     ]
-        }
+        },
+        {
+    "name": "Vietnamese Extension",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/plugins.json"
+    ]
+        },
+        {
+  "name": "ZeroNos Ext",
+  "description": "",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://0cs3.onii.pp.ua/movie/plugins.json"
+  ]
+},
+        {
+    "name": "Vietnamese Movie",
+    "description": "https://t.me/cs3vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
+    ]
+}
+        
     ]
 }
